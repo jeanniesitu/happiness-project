@@ -17,7 +17,6 @@ Website: https://www.globalhappinessproject.com
 
 Google Assistant Simulation (See raw video attached) <ul>
 (platform): Actions on Google - Dr. Happy Project: https://assistant.google.com/services/invoke/uid/000000eff3fad436
-
-DialogFlow - Happiness Adviser: happiness-project-ddbf4 (project ID)
+DialogFlow - Happiness Adviser: happiness-project-ddbf4 (project ID) </ul>
 
 Google Mini Demo: https://youtu.be/FMNX7EaPZYY
