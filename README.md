@@ -4,16 +4,16 @@ Welcome to the Happiness Project!
 
 Developers: Jeannie Situ, Evelyn Liu, Apoorva Jami, and Thanu Avirneni
 
-## Our Vision:
+## Team Vision:
 To increase the level of happiness in the world.
 
-## Problem statement:
+## Problem:
 People who are seeking to be happier lack the resources to take action.
 
-## Creation:
-2-part Solution:
-  1. Website
-  2. Google Assistant via Google Mini
+## 2-Part Solution:
 
+  1. Website: https://www.globalhappinessproject.com
 
-Google Mini Demo: https://youtu.be/FMNX7EaPZYY
+   2. Google Assistant via Google Mini
+      Google Assistant Simulation: 
+      Google Mini Demo: https://youtu.be/FMNX7EaPZYY
