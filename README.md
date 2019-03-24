@@ -24,4 +24,3 @@ DialogFlow - Happiness Adviser: happiness-project-ddbf4 (project ID) </ul>
 <img src="https://i.imgur.com/FERyJIOl.jpg"/>
 
 
-testtest
