@@ -15,9 +15,11 @@ We created an interactive website and a virtual assistant to suggest activites t
 
 Website: https://www.globalhappinessproject.com
 
-Google Assistant Simulation (See raw video attached) <ul>
-(platform): Actions on Google - Dr. Happy Project: https://assistant.google.com/services/invoke/uid/000000eff3fad436
+Google Mini Demo: https://youtu.be/FMNX7EaPZYY
+
+Google Assistant Simulation: https://youtu.be/WWqvTauWOw0 <ul>
+Actions on Google - Dr. Happy Project: https://assistant.google.com/services/invoke/uid/000000eff3fad436
 DialogFlow - Happiness Adviser: happiness-project-ddbf4 (project ID) </ul>
 <img src="https://i.imgur.com/FERyJIOl.jpg"/>
 
-Google Mini Demo: https://youtu.be/FMNX7EaPZYY
+
