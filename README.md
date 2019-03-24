@@ -12,10 +12,14 @@ People who are seeking to be happier lack the resources to take action.
 
 ## 2-Part Solution:
 
-  1. Website: https://www.globalhappinessproject.com
-
-   2. Google Assistant via Google Mini
+    1. Website: https://www.globalhappinessproject.com
+    
+    2. Google Assistant via Google Mini
    
-      Google Assistant Simulation: 
-      
+      Google Assistant
+  
+        Actions on Google - Dr. Happy Project: https://assistant.google.com/services/invoke/uid/000000eff3fad436
+        DialogFlow - Happiness Adviser: happiness-project-ddbf4 (project ID)
+        Simulation: 
+   
       Google Mini Demo: https://youtu.be/FMNX7EaPZYY
