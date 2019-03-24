@@ -21,4 +21,4 @@ DialogFlow - Happiness Adviser: happiness-project-ddbf4 (project ID) </ul>
 <img src="https://i.imgur.com/FERyJIOl.jpg"/>
 
 Google Mini Demo: https://youtu.be/FMNX7EaPZYY
-<iframe src="https://www.youtube.com/embed/FMNX7EaPZYY"></iframe>
+<img src="https://www.youtube.com/embed/FMNX7EaPZYY"></iframe>
