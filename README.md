@@ -11,16 +11,15 @@ To increase the level of happiness in the world.
 People who are seeking to be happier lack the resources to take action.
 
 ## 2-Part Solution:
-We created an interactive website to suggest activites to users for building happiness.
+We created an interactive website and a virtual assistant to suggest activites to users for building happiness.
 
-    1. Website: https://www.globalhappinessproject.com
+    Website: https://www.globalhappinessproject.com
     
-    2. Google Assistant via Google Mini
+    Google Assistant via Google Mini
    
-      Google Assistant
+      Google Assistant (./Google_Assistant_Simulation)
   
         Actions on Google - Dr. Happy Project: https://assistant.google.com/services/invoke/uid/000000eff3fad436
         DialogFlow - Happiness Adviser: happiness-project-ddbf4 (project ID)
-        Simulation: ./Google_Assistant_Simulation
    
-      Google Mini Demo: https://youtu.be/FMNX7EaPZYY
+    Google Mini Demo: https://youtu.be/FMNX7EaPZYY
