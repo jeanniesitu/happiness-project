@@ -19,6 +19,7 @@ Google Mini Demo: https://youtu.be/FMNX7EaPZYY
 
 Google Assistant Simulation: https://youtu.be/WWqvTauWOw0 <ul>
 Actions on Google - Dr. Happy Project: https://assistant.google.com/services/invoke/uid/000000eff3fad436
+  
 DialogFlow - Happiness Adviser: happiness-project-ddbf4 (project ID) </ul>
 <img src="https://i.imgur.com/FERyJIOl.jpg"/>
 
