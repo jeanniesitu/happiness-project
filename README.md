@@ -15,5 +15,7 @@ People who are seeking to be happier lack the resources to take action.
   1. Website: https://www.globalhappinessproject.com
 
    2. Google Assistant via Google Mini
+   
       Google Assistant Simulation: 
+      
       Google Mini Demo: https://youtu.be/FMNX7EaPZYY
