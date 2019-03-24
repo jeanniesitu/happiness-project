@@ -1,7 +1,8 @@
 # happiness-project
 
 Welcome to the Happiness Project!
+Developers: Jeannie Situ, Evelyn Liu, Apoorva Jami, and Thanu Avirneni
 
-Project Vision: Build happiness in the world
+Our Vision: To build happiness in the world
 
 Problem statement:
