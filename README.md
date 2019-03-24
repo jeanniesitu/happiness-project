@@ -11,6 +11,7 @@ To increase the level of happiness in the world.
 People who are seeking to be happier lack the resources to take action.
 
 ## 2-Part Solution:
+We created an interactive website to suggest activites to users for building happiness.
 
     1. Website: https://www.globalhappinessproject.com
     
